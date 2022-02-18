@@ -4,5 +4,6 @@ public class Nueva {
 		System.out.println("Hola");
 		System.out.println("Que tal");
 		System.out.println("Conflicto1");
+		System.out.println("Conflicto1 bis");
 	}
 }
